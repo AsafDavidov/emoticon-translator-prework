@@ -8,6 +8,7 @@ end
 
 def get_japanese_emoticon(path, amer_emote)
   # code goes here
+  
 end
 
 def get_english_meaning
