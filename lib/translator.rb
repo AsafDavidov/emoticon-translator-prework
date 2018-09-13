@@ -9,7 +9,7 @@ end
 def get_japanese_emoticon(path, amer_emote)
   # code goes here
   emoticons = load_library(path)
-  
+  binding.pry
 end
 
 def get_english_meaning
