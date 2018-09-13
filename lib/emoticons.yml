@@ -59,9 +59,9 @@ get_meaning:
   "(*^3^)/~☆":
     kiss
   "(Ｔ▽Ｔ)":
-    - sad
+    sad
   "o_O":
-    - surprised
+    surprised
   "(^_-)":
     - wink
 get_emoticon:
