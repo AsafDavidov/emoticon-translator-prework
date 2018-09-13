@@ -62,4 +62,6 @@ get_meaning:
     -sad
   "o_O":
     -surprised
+  "(^_-)":
+    -wink
 get_emoticon:
