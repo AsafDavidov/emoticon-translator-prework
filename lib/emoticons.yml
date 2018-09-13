@@ -39,42 +39,39 @@ wink:
   - "(^_-)"
 get_meaning: 
   "☜(⌒▽⌒)☞":
-    -angel
+    - angel
   "ヽ(ｏ`皿′ｏ)ﾉ":
-    -angry
+    - angry
   "(ΘεΘ;)":
-    -bored
+    - bored
   "(゜.゜)":
-    -confused
+    - confused
   "(#^.^#)":
-    -embarrased
+    - embarrased
   ">゜))))彡"
-    -fish
+    - fish
   "(^0_0^)":
-    -glasses
+    - glasses
   "(￣ー￣)":
-    -grinning
+    - grinning
   "(＾ｖ＾)":
-    -happy
+    - happy
   "(*^3^)/~☆":
-    -kiss
+    - kiss
   "(Ｔ▽Ｔ)":
-    -sad
+    - sad
   "o_O":
-    -surprised
+    - surprised
   "(^_-)":
-    -wink
+    - wink
 get_emoticon:
   "O:)":
-  - "☜(⌒▽⌒)☞"
-  angry:
-    - ">:("
+    - "☜(⌒▽⌒)☞"
+  ">:(":
     - "ヽ(ｏ`皿′ｏ)ﾉ"
-  bored:
-    - ":O"
+  ":O":
     - "(ΘεΘ;)"
-  confused:
-    - "%)"
+  "%)":
     - "(゜.゜)"
   embarrased:
     - ":$" 
